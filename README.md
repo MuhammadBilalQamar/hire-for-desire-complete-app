@@ -9,3 +9,5 @@ const styles = StyleSheet.create({
 });
 
 ```
+
+***All Right Reserved To Muhammad Bilal Qamar***
